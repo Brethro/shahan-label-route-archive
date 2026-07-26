@@ -6,9 +6,10 @@ const slides = [
   [5, "Turquoise Tile Press", "Concept Systems"],
   [6, "Silk Orchard Current", "Concept Systems"],
   [7, "Qajar Ruby Poster", "Concept Systems"],
-  [8, "Shelf Signals · I", "Comparison"],
-  [9, "Shelf Signals · II", "Comparison"],
-  [10, "Choose the Cultural Engine", "Closing"],
+  [8, "Ardabil Woven Mark", "Concept Systems"],
+  [9, "Shelf Signals · I", "Comparison"],
+  [10, "Shelf Signals · II", "Comparison"],
+  [11, "Choose the Cultural Engine", "Closing"],
 ];
 
 const featuredGroups = ["Concept Systems", "Comparison"];
